@@ -1,5 +1,5 @@
-import { start_timer } from '../../public/timer.js';
-import '../../public/timer.js';
+import { start_timer } from './timer.js';
+import './timer.js';
 import {Swiper} from "swiper/bundle";
 import "swiper/css/bundle";
 
